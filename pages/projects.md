@@ -4,7 +4,7 @@ title: Projects
 category: projects
 permalink: /projects
 ---
-# AnyMation - Projects
+# Anymation - Projects
 
 Welcome to the **Projects** section of **AnyMation IIT Bombay**! Below is a list of our ongoing and completed projects, showcasing a blend of creativity, animation, and technical innovation.
 
