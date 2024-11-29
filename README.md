@@ -1,5 +1,6 @@
 ## Wassup?
 <!--
+Hi just a check 
  - Getting started with Blender
  - Displaying our projects (Bootstrap if possible)
  - Our Team (Make a layout page)
